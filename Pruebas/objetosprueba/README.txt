@@ -1,0 +1,3 @@
+Nombre: Luis Felipe Alamilla Calixto
+Email: luisfelipe.axg@gmail.com
+Descripción: Se le pedirá al usuario que ingrese la medida de un lado de la figura. Una vez terminado, presionará enter para poder elegir la figura de la que desea hacer cálculos (cuadrado o cubo), al seleccionar el cuadrado, tendrá las opciones de área y perímetro; y al seleccionar cubo, tendrá las opciones de volumen y perímetro. Al terminar de hacer cada cálculo, se preguntará si desea continuar trabajando con esa medida de lado, cambiar la medida/objeto o salir. Si se elige "cambiar la medida/objeto" , se reinicia el programa. En cada menú existe la opción de salir del programa.
